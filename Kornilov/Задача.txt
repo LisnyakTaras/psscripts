@@ -1,0 +1,1 @@
+Написание скрипта сравнения EmployeeID и SamAccountNAme
