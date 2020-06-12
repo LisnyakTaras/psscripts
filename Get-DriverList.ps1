@@ -1,0 +1,1 @@
+﻿get-wmiobject Win32_PnpsignedDriver | select DriverProviderName, Manufacturer, HardWareID, InfName
